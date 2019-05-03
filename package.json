@@ -1,0 +1,17 @@
+{
+  "name": "bazel_repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@angular/bazel": "8.0.0-rc.1",
+    "@angular/compiler": "8.0.0-rc.1",
+    "@angular/compiler-cli": "8.0.0-rc.1",
+    "@angular/core": "8.0.0-rc.1",
+    "@bazel/karma": "^0.28.0",
+    "@bazel/typescript": "^0.28.0",
+    "rxjs": "^6.4.0",
+    "typescript": "~3.4",
+    "zone.js": "~0.9.0"
+  }
+}
